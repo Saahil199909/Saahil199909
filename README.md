@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Sahil Chettiar
-<h3 align="center"><font face="Arial"><a href="linkedin.com/in/sahilchettiar" target="_blank" rel="noreferrer">Sahil</a> is a passionate 🚀 Full Stack Developer from India, with a experience of 3 years now. 
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/sahilchettiar" target="_blank" rel="noreferrer">Sahil</a> is a passionate 🚀 Full Stack Developer from India, with a experience of 3 years now. 
 
 </font></h3>
 
