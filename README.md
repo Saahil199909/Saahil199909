@@ -87,7 +87,7 @@
 </p>
 
 - 💬 Ask me about **full stack applications or turning ideas into production-ready solutions!**
-- 📫 How to reach me **[sahilchettiar111@gmail.com](mailto:sahilchettiar@gmail.com)**
+- 📫 How to reach me **[sahilchettiar111@gmail.com](mailto:sahilchettiar111@gmail.com)**
 
 
   
